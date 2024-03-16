@@ -1,0 +1,11 @@
+
+#main{
+    display: flex;
+    align-items: center;
+}
+#box div{
+    /* margin: 10px; */
+    
+    align-items: center;
+    border:2px solid black;
+} 
